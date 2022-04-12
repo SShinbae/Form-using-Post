@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(154, 168, 223);
+} 
+
+.kep{ 
+    text-align: center;
+}
+.logo{
+    text-align: center;
+}
+.table{
+    
+    width: 500px;
+    border-radius: 10px;
+    background-color: burlywood;
+    border-color: rgb(103, 73, 35);
+}
+.tgh, td{
+    background-color: burlywood;
+    
+}
+
